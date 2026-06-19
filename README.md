@@ -3,7 +3,6 @@
 ## Intern Details
 
 **Name:** Abhijit Shankar Jadhav
-
 **Role:** QA Manual & Automation Testing Intern
 
 ---
@@ -34,9 +33,9 @@ Aspiring Software Test Engineer with a strong interest in Manual Testing, Automa
 * Test Case Design
 * Test Execution
 * Bug Reporting
+* Functional Testing
 * Regression Testing
 * Smoke Testing
-* Functional Testing
 
 ### Automation Testing
 
@@ -48,53 +47,93 @@ Aspiring Software Test Engineer with a strong interest in Manual Testing, Automa
 ### API Testing
 
 * Postman
-* REST API Validation
+* REST API Testing
 
 ### Database Testing
 
 * SQL Queries
-* Data Verification
+* Data Validation
 
 ### Tools
 
 * Git & GitHub
+* Jira
 * VS Code
 * MySQL
 * Postman
-* Jira
 
 ---
 
 ## Repository Structure
 
-### Manual Testing
+### Manual_Testing
 
-Contains test cases, bug reports, RTM documents, and test plans.
+* Test Cases
+* Bug Reports
+* Test Plans
+* RTM Documents
 
-### Automation Testing
+### Automation_Testing
 
-Contains Selenium automation scripts, framework implementation, and execution reports.
+* Selenium Java Scripts
+* TestNG Framework
+* Page Object Model (POM)
+* Execution Reports
 
-### API Testing
+### API_Testing
 
-Contains Postman collections and API test scenarios.
+* Postman Collections
+* Test Data
 
 ### SQL
 
-Contains database queries and validation exercises.
+* SQL Queries
+* Assignments
 
 ### Projects
 
-Contains real-world testing assignments and internship projects.
+* OrangeHRM
+* SauceDemo
+* DemoWebShop
 
-### Learning Notes
+### Learning_Notes
 
-Contains daily learning notes, observations, and internship knowledge sharing.
+* Daily learning notes
+* Testing concepts
+* Best practices
+
+### Daily_Task_Log
+
+* Daily internship activities
+* Task updates
+* Progress tracking
+
+---
+
+## Internship Deliverables
+
+* Test Cases
+* Bug Reports
+* Test Plans
+* RTM Documents
+* Selenium Automation Scripts
+* API Test Collections
+* SQL Validation Queries
+* Project Documentation
+* Daily Learning Notes
+
+---
+
+## Learning Outcome
+
+This repository demonstrates practical exposure to Manual Testing, Automation Testing, API Testing, Database Testing, defect tracking, test documentation, and QA best practices throughout the internship period.
 
 ---
 
 ## Author
 
-Abhijit Shankar Jadhav
+**Abhijit Shankar Jadhav**
 
 QA Manual & Automation Testing Intern
+
+GitHub: https://github.com/abhijit-tester
