@@ -1,0 +1,34 @@
+--Create Department Table
+CREATE TABLE Department(
+DepartmentID INT PRIMARY KEY,
+DepartmentName VARCHAR(50)
+);
+
+--Create Employee Table
+
+CREATE TABLE Employee (
+EmployeeID INT PRIMARY KEY,
+EmployeeName VARCHAR(100),
+Salary DECIMAL(10.2),
+HireDate DATE,
+DepartmentID INT
+);
+
+--Insert Department Data
+
+INSERT INTO Department VALUES
+(1,'HR'),
+(2,'IT'),
+(3,'Finance'),
+(4,'Sales');
+
+--Insert Employee Data
+
+INSERT INTO Employee VALUES
+(101,'Amit',50000,'2025-01-10',1),
+(102,'Rahul',70000,'2025-03-15',2),
+(103,'Priya',6000,'2024-12-20',2),
+(104,'Sneha',80000,'2025-04-05',3),
+(105,'Vikas',75000,'2025-02-11',4),
+(106,'Anjali',90000,'2024-11-25',1),
+(107,'Karan',65000,'2025-06-01',3);
